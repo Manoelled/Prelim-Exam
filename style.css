@@ -1,0 +1,97 @@
+body{
+    background-color: #121212;
+    color:white;
+}
+
+
+
+.text-color {
+    color: white;
+    text-align: center;
+    font-size: 500%;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-minor {
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Textplain {
+    color: white;
+    text-align: center;
+    font-size: 100%;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.centerbox {
+    justify-content: center;
+    text-align: center;
+}
+.whiten{
+    color:white;
+}
+
+.footer {
+    background: #121212;
+}
+
+.btncntr{
+    margin-inline: auto;
+    display: block;
+}
+
+.wtext {
+    color: white;
+}
+
+.c-body{
+    height: 15rem;
+    width: 40%;
+
+}
+
+.d-body{
+    width: 40%;
+}
+
+iframe{
+    position: absolute;
+    top: 13.5rem;
+    left:60rem;
+    width: 45%;
+
+}
+
+.contact{
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+
+.top{
+    margin-top: 2rem;
+}
+
+footer{
+    margin-top: 20rem;
+}
+
+.gallery {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.pricing{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+.dark{
+    background-color: #121212;
+    color:white;
+}
